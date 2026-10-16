@@ -30,6 +30,8 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
+
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
 
 - [Open-Source GitHub Projects](#open-source-github-projects)
@@ -40,67 +42,25 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
+## Sector Overview & Market Dynamics
+
+The global UI/UX design and prototyping software market is estimated at **$2.6B–$2.9B in 2026**, growing at a rapid CAGR of **~22%–32%** toward over **$11B–$15B** by the mid-2030s. The sector is **highly concentrated and "winner-take-most"**, dominated by ecosystem leaders like Adobe and Figma that anchor core design systems, while specialized tools (e.g., UXPin, Framer, Principle) compete in differentiated niches such as code-backed fidelity, production site publishing, and advanced native motion prototyping.
+
 ## SaaS/Hosted Platforms
 
+| Platform | Company Scale (Valuation / Revenue) | Starting Paid Pricing | Free Tier / Trial Limits | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Adobe XD](https://www.adobe.com/products/xd.html)** | **~$100B Market Cap** ($25.9B+ TTM Revenue) | **$59.99/mo** (Creative Cloud All Apps annual plan; XD is in maintenance mode and no longer sold standalone) | **7-day free trial** with full access to all 20+ Creative Cloud apps and Firefly AI features (no permanent free tier) | UI/UX design tool with prototyping, voice prototyping, and deep integration across the broader Creative Cloud ecosystem. |
+| **[Figma](https://www.figma.com/)** | **~$19.3B–$25B+ Valuation / Market Cap** ($1.1B+ ARR) | **$16/editor/month** (Professional plan, billed annually) or $20/editor/mo billed monthly | **Starter Free Plan**: 3 active Figma and 3 FigJam team files, 1 team project, 2 editors, unlimited personal drafts, 30-day version history, 500 AI credits/mo (Dev Mode excluded) | The industry standard for collaborative interface design with real-time multiplayer editing, component libraries, auto-layout, and Dev Mode. |
+| **[Framer](https://www.framer.com/)** | **$2.0B Valuation** (~$50M ARR, Series D) | **$10/site/month** (Basic plan, billed annually) or $15/mo billed monthly | **Free Plan**: 1,000 pages (design/unpublished mode), 10 CMS collections, up to 3 editors, hosted on `*.framer.website` domain with "Made in Framer" badge | Visual design and publishing platform bridging the gap between prototyping and production websites with AI layout generation and built-in CMS. |
+| **[InVision](https://www.invisionapp.com/)** | **$1.9B Peak Valuation** ($350M+ total funding raised; Freehand acquired by Miro) | **$7.95/user/month** (Historical Pro tier; core service permanently discontinued Dec 31, 2024) | **Legacy Free Tier**: 1 active prototype and 3 boards (Platform reached end-of-life on December 31, 2024; users migrated to Miro) | Historical pioneer for design collaboration, prototyping, and handoff; core platform ceased operations after Freehand was acquired by Miro. |
+| **[Zeplin](https://zeplin.io/)** | **~$50M ARR** (Private, ~$1.3M VC raised) | **$6/seat/month** (Team plan, billed annually; or Project packs from $8/mo) | **Free Plan**: 1 active project, up to 100 screens, 1 styleguide (max 100 components), unlimited workspace members | Dedicated design handoff and specification hub automatically generating specs, tokens, assets, and code snippets from design files. |
+| **[Marvel](https://marvelapp.com/)** | **~$15M ARR** (Private, ~$11M total funding) | **$12/month** (Pro plan, billed annually) or $16/mo billed monthly | **Free Plan**: 1 user account, 1 active project, basic prototyping with Marvel branding, limited user tests | Intuitive cloud-based rapid prototyping, wireframing, and user-testing tool for web and mobile interfaces. |
+| **[Axure RP](https://www.axure.com/)** | **~$6M ARR** (Private, Bootstrapped) | **$25/user/month** (Axure RP Pro, billed annually) or $29/user/mo billed monthly | **30-day free trial** with unrestricted desktop Pro/Team functionality (Axure Cloud has a free tier capped at 3 whiteboards and 10 documents; no permanent free desktop app) | High-fidelity prototyping platform featuring conditional logic, dynamic content panels, math expressions, and detailed software specifications. |
+| **[UXPin](https://www.uxpin.com/)** | **~$5M ARR** (Private, ~$7.3M total funding) | **$19/editor/month** (Core plan, billed annually) or $29/editor/mo billed monthly | **Free Plan**: 2 active prototypes, 50 AI credits/mo, basic component library access (plus 14-day full-feature free trial) | Code-based prototyping tool powered by UXPin Merge that renders real production React and HTML components instead of vector approximations. |
+| **[Proto.io](https://proto.io/)** | **~$1.8M ARR** (Private, Bootstrapped) | **$24/month** (Freelancer plan, billed annually) or $29/mo billed monthly | **15-day free trial** with full access; downgraded free account capped at 1 user, 1 active project, and 5 prototype screens | Browser-based high-fidelity prototyping platform with drag-and-drop animated transitions and micro-interactions without writing code. |
+| **[Principle](https://principleformac.com/)** | **~$1M ARR** (Private, Independent) | **$129 one-time license** per computer (includes 1 year of updates; optional $99/year renewal) | **14-day free trial** of the full macOS desktop application (no permanent free version) | Native Mac motion and interaction design tool specialized in high-performance timeline and spring-based mobile UI animations. |
 
-
-- **[Figma](https://www.figma.com/)**  
-
-  **The industry standard for collaborative interface design** . Features **real-time multiplayer editing**, **component libraries**, **auto-layout**, **variables and modes**, and **Dev Mode** for developer handoff . **The most widely adopted design tool**—most design systems now live in Figma first .
-
-
-
-- **[Framer](https://www.framer.com/)**  
-
-  **Design and publish production websites**—**the bridge between design tool and production site** . Features **AI-powered generation**, **CMS**, **effects**, and **responsive design** . **The most capable design-to-production platform** for marketing sites and prototypes.
-
-
-
-- **[UXPin](https://www.uxpin.com/)**  
-
-  **Code-based design tool**—**uses real React components instead of static mockups** . Features **Merge** for design systems, **interactions with real code**, and **the most accurate design-to-code fidelity** . **The best choice for teams with mature component libraries** .
-
-
-
-- **[Adobe XD](https://www.adobe.com/products/xd.html)**  
-
-  **Adobe's UI/UX design tool** with **prototyping**, **voice prototyping**, and **Adobe Creative Cloud integration** . **The most integrated with Adobe ecosystem** .
-
-
-
-- **[InVision](https://www.invisionapp.com/)**  
-
-  **Digital product design platform** with **prototyping**, **design handoff**, and **design system management** . **The historical standard for design collaboration** .
-
-
-
-- **[Proto.io](https://proto.io/)**  
-
-  **High-fidelity prototyping** with **no coding required** . Features **drag-and-drop interactions**, **animated transitions**, and **user testing** .
-
-
-
-- **[Axure RP](https://www.axure.com/)**  
-
-  **The most powerful prototyping tool**—**conditional logic**, **dynamic content**, and **detailed specifications** . **The standard for complex enterprise prototypes** .
-
-
-
-- **[Marvel](https://marvelapp.com/)**  
-
-  **Design, prototype, and collaborate** with **intuitive interface** and **user testing** .
-
-
-
-- **[Principle](https://principleformac.com/)**  
-
-  **Mac-based animation and interaction design tool**—**the standard for prototyping advanced UI animations** .
-
-
-
-- **[Zeplin](https://zeplin.io/)**  
-
-  **Design handoff and collaboration**—**specs, assets, and style guides automatically generated from design files** . **The original design-to-development bridge** .
 
 
 
